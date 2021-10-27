@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio Clase 03</title>
+</head>
+<body>
+    <button onclick="mostrarHorario();">
+        Según la hora, ¿estamos en clase?
+    </button>
+        
+        <p id="mostrar"></p>
+        
+        <script>
+            
+            function mostrarHorario()
+            {
+                var d = new Date();
+                document.getElementById("mostrar").innerHTML = d.getHours();
+                var h = d.getHours();
+                if(h>9 && h<12)
+                {
+                    document.getElementById("mostrar").innerHTML= "Si estamos en clase";
+                    alert('Si');
+                }
+                else
+                {
+                    document.getElementById("mostrar").innerHTML= "No estamos en clase";
+                    alert('No');
+                }
+            }
+        </script>
+        
+</body>
+</html>

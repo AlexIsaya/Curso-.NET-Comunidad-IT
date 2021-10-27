@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio IMC</title>
+</head>
+<body>
+    <div id="contenedor">
+        <h1>Calculá tu IMC!</h1>
+        <p>
+            <h2>Peso (en kg) :</h2>
+            <input type="text" id="peso">
+            <h2>Altura (en m) :</h2>
+            <input type="text" id="altura">
+         </p>
+        <br>
+        <button onclick="calculoIMC();">Calcular</button>
+        <footer>   
+            <p>Fuente: <a href="https://www.seedo.es/index.php/pacientes/calculo-imc"> https://www.seedo.es/index.php/pacientes/calculo-imc</a></p>        
+        </footer>    
+    </div>
+
+    <script>
+        function calculoIMC(){
+            var peso = document.getElementById("peso").value;
+            parseFloat(peso);
+            var altura = document.getElementById("altura").value;
+            parseFloat(altura);
+            var imc = peso/(altura*altura);
+            if (imc < 18.5) {
+                alert('Su IMC es: '+ imc + ' [Peso insuficiente]');
+            }
+            else if (imc>=18.5 && imc<=24.9){
+                alert('Su IMC es: '+ imc + ' [Normopeso]');
+            }
+            else if (imc>=25 && imc<=26.9){
+                alert('Su IMC es: '+ imc + ' [Sobrepeso grado I]');
+            }
+            else if (imc>=27 && imc<=29.9){
+                alert('Su IMC es: '+ imc + ' [Sobrepeso grado II (preobesidad)]');
+            }
+            else if (imc>=30 && imc<=34.9){
+                alert('Su IMC es: '+ imc + ' [Obesidad de tipo I]');
+            }
+            else if (imc>=35 && imc<=39.9){
+                alert('Su IMC es: '+ imc + ' [Obesidad de tipo II]');
+            }
+            else if (imc>=40 && imc<=49.9){
+                alert('Su IMC es: '+ imc + ' [Obesidad de tipo III (mórbida)]');
+            }
+            else if (imc>=50){
+                alert('Su IMC es: '+ imc + ' [Obesidad de tipo IV (extrema)]');
+            }
+            else {
+                alert("No se detectó ningún ingreso de números")
+            }
+        }
+
+    </script>
+</body>
+</html>
