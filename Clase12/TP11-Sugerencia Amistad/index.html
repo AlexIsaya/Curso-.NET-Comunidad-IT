@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <title>sugerencias</title>
+</head>
+
+<body>
+  <button class="btn btn-link" onclick="ver_sugerencias()">Ver sugerencia de
+    amistad</button>
+
+    <div class="conteiner" id="mostrar" style="display: none;">
+      
+    </div>
+</body>
+
+<script>
+
+
+  var usuarios = [{ name: "avel", apellido: "mendez", edad: "28", imagen: "imagenes/10341249.jpg" },
+  { name: "Esteban", apellido: "Mendoza", edad: "24", imagen: "imagenes/gratis-png-equipo-iconos-avatar-usuario-perfil-recomendador-sistema-avatar.png" },
+  { name: "Eduardo", apellido: "Tyler", edad: "43", imagen: "imagenes/mujer.png" },
+  { name: "Maria", apellido: "Isamendi", edad: "28", imagen: "imagenes/images.png"  },
+  { name: "Raquel", apellido: "Sosa", edad: "48", imagen: "imagenes/png-transparent-avatar-user-computer-icons-software-developer-avatar-child-face-heroes.png" }];
+
+
+  function ver_sugerencias() {
+  
+    var x = document.getElementById("mostrar");
+    if(x.style.display === "none")
+    {
+      x.style.display = "block";
+
+   text = "<div class='row'>";
+
+   for (var i = 0; i < usuarios.length; i++) {
+
+    text +=  "<div class='col-sm-2'>";  
+    text +=     "<div class='row ml-2'>"
+    text +=       "<img src="+usuarios[i].imagen+" width='50px' class='rounded-circle ml-2' >" ; 
+    text +=      "<div class='container'><h5 class='pt-2'>"+usuarios[i].apellido+", "+usuarios[i].name+"</h5><p>Edad"+usuarios[i].edad+"</p></div>"
+    text +=       "<button class='btn btn-primary btn-xs'>Seguir</button>" ;
+    text +=     "</div>";
+    text +=     "</div>";
+
+
+   }
+    text += "</div>"
+
+    document.getElementById("mostrar").innerHTML = text;
+    }else
+    {
+      x.style.display = "none"
+    }
+  
+
+  //  text = "<div class='col-sm-12'>";
+
+  //  for (var i = 0; i < usuarios.length; i++) {
+     
+  //    text += "<h1>" + usuarios[i].name +", "+usuarios[i].apellido+"</h1>";
+  //    text += "<h3>Edad: "+usuarios[i].edad+"</h3>";
+  //    text += "<h5>Color favorito: "+usuarios[i].color[0]+", "+usuarios[i].color[1]+"</h5>";
+  //  }
+  //   text += "</div>"
+
+  //   document.getElementById("mostrar").innerHTML = text;
+    
+   }
+
+
+</script>
+
+</html>
