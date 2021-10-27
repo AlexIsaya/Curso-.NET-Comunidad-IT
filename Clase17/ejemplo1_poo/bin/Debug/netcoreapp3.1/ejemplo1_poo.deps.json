@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ejemplo1_poo/1.0.0": {
+        "runtime": {
+          "ejemplo1_poo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejemplo1_poo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase17\ejemplo1_poo\obj\Debug\netcoreapp3.1\ejemplo1_poo.csprojAssemblyReference.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase17\ejemplo1_poo\obj\Debug\netcoreapp3.1\ejemplo1_poo.AssemblyInfoInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase17\ejemplo1_poo\obj\Debug\netcoreapp3.1\ejemplo1_poo.AssemblyInfo.cs
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase17\ejemplo1_poo\obj\Debug\netcoreapp3.1\ejemplo1_poo.csproj.CoreCompileInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase17\ejemplo1_poo\bin\Debug\netcoreapp3.1\ejemplo1_poo.exe
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase17\ejemplo1_poo\bin\Debug\netcoreapp3.1\ejemplo1_poo.deps.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase17\ejemplo1_poo\bin\Debug\netcoreapp3.1\ejemplo1_poo.runtimeconfig.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase17\ejemplo1_poo\bin\Debug\netcoreapp3.1\ejemplo1_poo.runtimeconfig.dev.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase17\ejemplo1_poo\bin\Debug\netcoreapp3.1\ejemplo1_poo.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase17\ejemplo1_poo\bin\Debug\netcoreapp3.1\ejemplo1_poo.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase17\ejemplo1_poo\obj\Debug\netcoreapp3.1\ejemplo1_poo.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase17\ejemplo1_poo\obj\Debug\netcoreapp3.1\ejemplo1_poo.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase17\ejemplo1_poo\obj\Debug\netcoreapp3.1\ejemplo1_poo.genruntimeconfig.cache
