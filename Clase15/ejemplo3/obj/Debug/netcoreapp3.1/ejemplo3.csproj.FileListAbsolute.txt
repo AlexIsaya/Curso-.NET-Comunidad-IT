@@ -1,0 +1,13 @@
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\ejemplo3\bin\Debug\netcoreapp3.1\ejemplo3.exe
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\ejemplo3\bin\Debug\netcoreapp3.1\ejemplo3.deps.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\ejemplo3\bin\Debug\netcoreapp3.1\ejemplo3.runtimeconfig.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\ejemplo3\bin\Debug\netcoreapp3.1\ejemplo3.runtimeconfig.dev.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\ejemplo3\bin\Debug\netcoreapp3.1\ejemplo3.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\ejemplo3\bin\Debug\netcoreapp3.1\ejemplo3.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\ejemplo3\obj\Debug\netcoreapp3.1\ejemplo3.csprojAssemblyReference.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\ejemplo3\obj\Debug\netcoreapp3.1\ejemplo3.AssemblyInfoInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\ejemplo3\obj\Debug\netcoreapp3.1\ejemplo3.AssemblyInfo.cs
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\ejemplo3\obj\Debug\netcoreapp3.1\ejemplo3.csproj.CoreCompileInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\ejemplo3\obj\Debug\netcoreapp3.1\ejemplo3.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\ejemplo3\obj\Debug\netcoreapp3.1\ejemplo3.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\ejemplo3\obj\Debug\netcoreapp3.1\ejemplo3.genruntimeconfig.cache

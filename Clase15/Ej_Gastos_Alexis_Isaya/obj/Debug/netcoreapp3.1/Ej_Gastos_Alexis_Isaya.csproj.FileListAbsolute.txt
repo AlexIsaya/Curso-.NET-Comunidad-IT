@@ -1,0 +1,13 @@
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\Ej_Gastos_Alexis_Isaya\bin\Debug\netcoreapp3.1\Ej_Gastos_Alexis_Isaya.exe
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\Ej_Gastos_Alexis_Isaya\bin\Debug\netcoreapp3.1\Ej_Gastos_Alexis_Isaya.deps.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\Ej_Gastos_Alexis_Isaya\bin\Debug\netcoreapp3.1\Ej_Gastos_Alexis_Isaya.runtimeconfig.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\Ej_Gastos_Alexis_Isaya\bin\Debug\netcoreapp3.1\Ej_Gastos_Alexis_Isaya.runtimeconfig.dev.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\Ej_Gastos_Alexis_Isaya\bin\Debug\netcoreapp3.1\Ej_Gastos_Alexis_Isaya.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\Ej_Gastos_Alexis_Isaya\bin\Debug\netcoreapp3.1\Ej_Gastos_Alexis_Isaya.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\Ej_Gastos_Alexis_Isaya\obj\Debug\netcoreapp3.1\Ej_Gastos_Alexis_Isaya.csprojAssemblyReference.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\Ej_Gastos_Alexis_Isaya\obj\Debug\netcoreapp3.1\Ej_Gastos_Alexis_Isaya.AssemblyInfoInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\Ej_Gastos_Alexis_Isaya\obj\Debug\netcoreapp3.1\Ej_Gastos_Alexis_Isaya.AssemblyInfo.cs
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\Ej_Gastos_Alexis_Isaya\obj\Debug\netcoreapp3.1\Ej_Gastos_Alexis_Isaya.csproj.CoreCompileInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\Ej_Gastos_Alexis_Isaya\obj\Debug\netcoreapp3.1\Ej_Gastos_Alexis_Isaya.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\Ej_Gastos_Alexis_Isaya\obj\Debug\netcoreapp3.1\Ej_Gastos_Alexis_Isaya.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase15\Ej_Gastos_Alexis_Isaya\obj\Debug\netcoreapp3.1\Ej_Gastos_Alexis_Isaya.genruntimeconfig.cache

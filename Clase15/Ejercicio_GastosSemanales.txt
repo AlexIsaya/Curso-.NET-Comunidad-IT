@@ -1,0 +1,20 @@
+Requisitos Funcionales
+--------------------
+Ingresar los gastos de cada dia durante una semana. Se debe considerar los gastos como numeros con coma. Se requiere por cada dia mostrar el cartel con el nombre del día y a continuacion solicitar el ingreso del importe del gasto.
+Una vez ingresados los 7 dias, calcular el promedio de gastos por dia y si hay uno ó mas que supere el doble del promedio mostrarlos con letra roja .
+Adicionalmente se solicita entregar un diagrama de flujo.
+
+Guia Técnico:
+--------
+Usar un arreglo de numeros con coma de 7 elementos. (float) 
+
+Usar un bucle Repetir (For) para cargar los 7 dias , puedo ir sumando parcialmente a medida que me cargan los dias para calcular el promedio
+Luego repetir por cada dia
+SI ( gastos[i]>(2*promedio))
+Mostrar("Se fue del promedio el dia " + /nombre dia/)
+
+
+Ejemplo 
+Datos: 3 , 3.5 , 2 , 5 12
+Promedio: 5
+12 es valo anomalo, se fue del doble del promedio
