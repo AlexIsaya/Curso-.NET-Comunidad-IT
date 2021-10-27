@@ -1,0 +1,9 @@
+Se requiere generar un juego simple.
+
+La historia es que una iguana come una mosca y al llegar a los 10 puntos se va.
+
+La mecanica del juego es poner la foto de iguana abajo y mover aleatoriamente la posicion de la mosca. Al hacer click en la mosca ,se acumula un punto.
+
+Por cada punto acumulado se muestra en un contador los mismos.
+
+Cuando llega a 10 puntos se gana el juego

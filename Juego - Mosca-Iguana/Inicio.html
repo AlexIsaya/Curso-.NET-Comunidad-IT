@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/estilos.css">
+    
+    <script type="text/javascript">
+
+        var intervaloMosca = setInterval(function(){ 
+            posicion_aleatoria(); }, 950);
+        var puntos=0;
+
+        function posicion_aleatoria(){
+            var ahora = new Date();
+            var miliseconds = ahora.getMilliseconds();
+            var mosca = document.getElementById("mosca");
+            
+            if(miliseconds<250){
+                mosca.style.top = miliseconds+"px";
+                mosca.style.left = 200+"px";
+            }
+            else if(250<=miliseconds<500){
+                mosca.style.top = 200+"px";
+                mosca.style.left = miliseconds+"px";
+            }
+            else if(500<=miliseconds<750){
+                mosca.style.top = miliseconds+"px";
+                mosca.style.left = 200+"px";
+            }
+            else{
+                mosca.style.top = miliseconds+"px";
+                mosca.style.left = 400+"px";
+            }
+            console.log(miliseconds);
+            
+        }
+    
+        function acumulaPuntos(){
+            puntos++;
+            document.getElementById("puntos").innerHTML = puntos;
+            if(puntos > 9){
+                
+                clearInterval(intervaloMosca);
+                alert('Ganaste iguana!');
+                document.getElementById("igu").style.display = "none";
+                document.getElementById("igu2").style.display = "block";
+                document.getElementById("reiniciar").style.display = "block";
+            }
+        }
+    </script>
+</head>
+<body>
+    <img src="imagenes/mosca.png" style="position:absolute; top:0; left:0; width:5%;" id="mosca" onclick="acumulaPuntos(); " alt="mosca">
+    <p>Cantidad de veces alcanzada</p>    
+    <p id="puntos"></p>
+    <div>
+        <button id="reiniciar">
+            <a href="../Juego - Caballero - Isaya/Inicio.html">Reiniciar Juego</a>
+        </button>
+    </div>
+    
+<footer>
+    <img src="imagenes/iguana.png" id="igu">
+    <img src="imagenes/iguana2.png" id="igu2">
+</footer>
+</body>
+
+</html>
+    
+    

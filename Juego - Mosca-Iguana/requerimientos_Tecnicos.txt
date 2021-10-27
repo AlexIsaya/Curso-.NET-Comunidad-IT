@@ -1,0 +1,37 @@
+Parte 1:
+----------
+1.Ubicar <img> foto iguana
+->abajo , posicion absoluta.
+
+2.Ubicar <img> foto mosca
+->arriba de mosca nomas, posicion absoluta.
+
+3.Acomodar tamaños
+
+4.Funcion Javascript con instruccion setInterval(Testeo velocidad y que muestre un alert())
+
+5. Funcion Js "mover_imagen" mosca a posicion aleatoria
+(para aleatorio tomar la hora de la fecha y en base alos milisegundos poner esa posicion)
+
+6. La setInterval "llama_mover" imagen mosca 
+
+Parte dos:
+----------------------------------------------
+Acumular puntos si cliqueo en la imagen mosca
+(evento en html onclik="acumularPuntos")
+
+Programar Evento Click de la imagen solo muestra alerta
+
+Dibujar un marcador de puntos con un <span> al lado iguana
+
+Crear funcion acumula Puntos : contador a nivel de documento se suma + 1 y actualiza el marcador mostrando los resultados.
+
+volver a imagen click y llamar funcion acumula_puntos
+
+OPCIONALMENTE:
+-cuando llega a 10 puntos llamo a clearInterval y mostrar Ganaste Iguana.
+-Se puede desaparecer la imagen de la iguana.
+-Puedo cambiar el puntero del mouse.
+
+
+
