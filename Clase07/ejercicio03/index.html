@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <p id="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut perferendis nesciunt quidem iure repellat dolorum laudantium beatae, necessitatibus commodi, doloribus in dicta vel qui, tempora cumque reprehenderit temporibus deserunt incidunt.</p>
+    <button id="btn-ocultar">Click</button>
+    <button id="btn-mostrar">Click</button>
+    <script >
+        $(document).ready(function(){
+            $("#btn-ocultar").click(function(){
+            $("#text").hide(2000);
+        })
+        $("#btn-mostrar").click(function(){
+                $("#text").show(3000);
+             })
+        })
+    </script>
+</body>
+</html>
