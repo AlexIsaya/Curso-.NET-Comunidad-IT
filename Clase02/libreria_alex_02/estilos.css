@@ -1,0 +1,101 @@
+body{
+    background-color: #000000;
+    color: blanchedalmond; 
+    background-image: url(imagenes/libreria.jpg);
+    background-size: cover;
+   }
+
+#contenedor{
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    overflow: hidden;
+    }
+
+ div h2{
+   font-size: 40px;
+    text-align: left;
+    line-height: 50px;
+    color:rgba(219, 7, 7, 0.685);
+   font-family: Impact, sans-serif;
+}
+
+   .navegacion{
+    width: 70%;
+    max-width: 1000px;
+    margin: auto;
+    background: rgb(231, 231, 231);
+    border-radius: 20px;
+   }
+
+   .menu > li{
+    position: relative;
+    display: inline-block;
+   }
+   .menu > li > a{
+   display: block;
+   padding: 15px 20px;
+   color: #353535;
+   font-family: Impact, sans-serif;
+   }
+   .menu li a:hover{
+    color: red; 
+    transition: all .3s;
+   }
+
+nav{
+    height: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+   }
+   nav h2{
+    font-size: 40px;
+    text-align: center;
+    line-height: 50px;
+   }
+   .submenu{
+    position: absolute;
+    background: #333333;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 1.5s;
+   }
+   .submenu li a{
+    display:block;
+    width: 180%;
+    padding: 15px;
+    color: chartreuse;
+    font-family: 'Courier New', Courier, monospace;
+   }
+   .menu li:hover .submenu{
+    visibility: visible;
+    opacity: 1;
+   }
+#contenido{
+    width: 100%;
+    height: 100%;
+    float: left;
+    background-color: rgb(5, 5, 99);
+    margin-top: 10px;
+    margin-right: 10px; 
+    margin-bottom: 10px;
+    border-radius: 20px;
+   }
+
+footer{
+    clear: both;
+    background-color: rgb(231, 231, 231);
+    text-align: center;
+    position: bottom;
+}
+footer a{
+   padding: 30px 25px;
+   color: rgb(25, 0, 255);
+   font-family: Impact, sans-serif;
+}
+ a:hover{
+    color: red; 
+    transition: all .3s;
+   }
