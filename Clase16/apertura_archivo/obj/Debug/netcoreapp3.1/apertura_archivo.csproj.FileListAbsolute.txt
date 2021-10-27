@@ -1,0 +1,13 @@
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\apertura_archivo\obj\Debug\netcoreapp3.1\apertura_archivo.csprojAssemblyReference.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\apertura_archivo\obj\Debug\netcoreapp3.1\apertura_archivo.AssemblyInfoInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\apertura_archivo\obj\Debug\netcoreapp3.1\apertura_archivo.AssemblyInfo.cs
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\apertura_archivo\obj\Debug\netcoreapp3.1\apertura_archivo.csproj.CoreCompileInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\apertura_archivo\bin\Debug\netcoreapp3.1\apertura_archivo.exe
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\apertura_archivo\bin\Debug\netcoreapp3.1\apertura_archivo.deps.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\apertura_archivo\bin\Debug\netcoreapp3.1\apertura_archivo.runtimeconfig.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\apertura_archivo\bin\Debug\netcoreapp3.1\apertura_archivo.runtimeconfig.dev.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\apertura_archivo\bin\Debug\netcoreapp3.1\apertura_archivo.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\apertura_archivo\bin\Debug\netcoreapp3.1\apertura_archivo.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\apertura_archivo\obj\Debug\netcoreapp3.1\apertura_archivo.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\apertura_archivo\obj\Debug\netcoreapp3.1\apertura_archivo.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\apertura_archivo\obj\Debug\netcoreapp3.1\apertura_archivo.genruntimeconfig.cache

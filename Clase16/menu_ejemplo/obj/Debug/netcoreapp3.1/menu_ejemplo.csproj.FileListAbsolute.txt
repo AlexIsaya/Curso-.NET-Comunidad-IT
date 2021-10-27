@@ -1,0 +1,13 @@
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\menu_ejemplo\bin\Debug\netcoreapp3.1\menu_ejemplo.exe
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\menu_ejemplo\bin\Debug\netcoreapp3.1\menu_ejemplo.deps.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\menu_ejemplo\bin\Debug\netcoreapp3.1\menu_ejemplo.runtimeconfig.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\menu_ejemplo\bin\Debug\netcoreapp3.1\menu_ejemplo.runtimeconfig.dev.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\menu_ejemplo\bin\Debug\netcoreapp3.1\menu_ejemplo.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\menu_ejemplo\bin\Debug\netcoreapp3.1\menu_ejemplo.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\menu_ejemplo\obj\Debug\netcoreapp3.1\menu_ejemplo.csprojAssemblyReference.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\menu_ejemplo\obj\Debug\netcoreapp3.1\menu_ejemplo.AssemblyInfoInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\menu_ejemplo\obj\Debug\netcoreapp3.1\menu_ejemplo.AssemblyInfo.cs
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\menu_ejemplo\obj\Debug\netcoreapp3.1\menu_ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\menu_ejemplo\obj\Debug\netcoreapp3.1\menu_ejemplo.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\menu_ejemplo\obj\Debug\netcoreapp3.1\menu_ejemplo.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase16\menu_ejemplo\obj\Debug\netcoreapp3.1\menu_ejemplo.genruntimeconfig.cache
