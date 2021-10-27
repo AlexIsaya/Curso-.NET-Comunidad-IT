@@ -1,0 +1,65 @@
+.contenedor-input, h2, h3{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+#procesar{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#reiniciar{
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+/*centrado para cada botón (al parecer no se puede con los 2 primeros)*/
+}
+#reiniciar a{
+    text-decoration: none;
+}
+
+.contenedor-tabla td{
+    text-align: center;
+}
+
+#tabla1 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10%;
+}
+#tabla2 {
+    display: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.contenedor-tabla td, .contenedor-tabla th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.contenedor-tabla tr:nth-child(even){background-color: #f2f2f2;}
+/*para las filas pares de la tabla*/
+
+.contenedor-tabla tr:hover {background-color: #ddd;}
+/*cuando el cursor se posicione encima*/
+
+#tabla1 th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+}
+
+#tabla2 th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    background-color: #8d0f03;
+    color: white;
+    text-align: center;
+}

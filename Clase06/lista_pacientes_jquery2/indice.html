@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listado Pacientes - Ejercicio 2</title>
+    <link rel="stylesheet" href="estilos/estilo.css">
+</head>
+<body>
+    <h2>Listado de Pacientes con COVID-19 - Ejercicio 2 Jquery</h2>
+    <h3>Ingresar Datos</h3>
+    <div class="contenedor">
+        <div class="contenedor-input">
+            <form >
+                <input type="number" name="" id="dni" placeholder="D.N.I"> <br><br>
+                <input type="text" name="" id="prov" placeholder="Provincia"><br><br>
+                <input type="date" name="" id="fecNac" placeholder="Fecha de Nacimiento">
+                <button id = "registrar" type="reset">Registrar</button> <br> <br>
+            </form>
+        </div>
+        <br>
+        <button id="procesar">Procesar Informacion</button>
+        <br><br>
+        <button id="reiniciar"><a href="indice.html">Reiniciar</a></button>
+        <p id=cantidad60></p>
+        <div class="contenedor-tabla">
+            <table id="tabla2">
+                    <tr>
+                        <th>DNI</th>
+                        <th>Provincia</th>
+                        <th>Edad</th>
+                    </tr>
+        </div>
+        <br><br>
+        <div class="contenedor-tabla">
+            <table id="tabla1">
+                    <tr>
+                        <th>DNI</th>
+                        <th>Provincia</th>
+                        <th>Fecha de Nacimiento</th>
+                    </tr>
+            </table>
+        </div>
+    </div>
+    <script src="javascript/jquery-3.6.0.min.js"></script>
+    <script src="javascript/indice.js"></script>
+</body>
+</html>
