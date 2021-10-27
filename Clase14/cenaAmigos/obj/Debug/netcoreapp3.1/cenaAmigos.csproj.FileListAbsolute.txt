@@ -1,0 +1,13 @@
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase14\cenaAmigos\bin\Debug\netcoreapp3.1\cenaAmigos.exe
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase14\cenaAmigos\bin\Debug\netcoreapp3.1\cenaAmigos.deps.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase14\cenaAmigos\bin\Debug\netcoreapp3.1\cenaAmigos.runtimeconfig.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase14\cenaAmigos\bin\Debug\netcoreapp3.1\cenaAmigos.runtimeconfig.dev.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase14\cenaAmigos\bin\Debug\netcoreapp3.1\cenaAmigos.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase14\cenaAmigos\bin\Debug\netcoreapp3.1\cenaAmigos.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase14\cenaAmigos\obj\Debug\netcoreapp3.1\cenaAmigos.csprojAssemblyReference.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase14\cenaAmigos\obj\Debug\netcoreapp3.1\cenaAmigos.AssemblyInfoInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase14\cenaAmigos\obj\Debug\netcoreapp3.1\cenaAmigos.AssemblyInfo.cs
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase14\cenaAmigos\obj\Debug\netcoreapp3.1\cenaAmigos.csproj.CoreCompileInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase14\cenaAmigos\obj\Debug\netcoreapp3.1\cenaAmigos.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase14\cenaAmigos\obj\Debug\netcoreapp3.1\cenaAmigos.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase14\cenaAmigos\obj\Debug\netcoreapp3.1\cenaAmigos.genruntimeconfig.cache
