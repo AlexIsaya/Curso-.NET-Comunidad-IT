@@ -1,0 +1,49 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inscripciones</title>
+</head>
+<body>
+	<span id="aceptado" style="margin:80px;">
+	</span>
+	
+	<script>
+		
+		function funcionFormulario()
+		{
+			const rutaURL = window.location.search;
+			const arrParametrosURL = new URLSearchParams(rutaURL); 
+			const edad = arrParametrosURL.get('edad');
+			//const nombre = arrParametrosURL.document.get('nombre');
+			//const apellido = arrParametrosURL.document.get('apellido');
+	
+			if(edad >= 18)
+			{
+				document.getElementById("aceptado").innerHTML = "Felicidades! La inscripción se registró con éxito.";
+				var vSpan=document.getElementById("aceptado");
+				vSpan.style.color ="green";
+				//alert('Datos de Inscripción Nro: 1234<br>Nombre: '+nombre+ '<br>Apellido: ' +apellido+ '<br>Edad: '+edad);
+			}
+			else if (edad < 18 && edad > 0)
+			{
+				document.getElementById("aceptado").innerHTML = "No se pudo registrar la inscripción.";
+				var vSpan=document.getElementById("aceptado");
+				vSpan.style.color ="red";
+				alert('No puede inscribirse ya que no cumple con el requisito de edad');
+			}
+			else if (edad <= 0){
+				document.getElementById("aceptado").innerHTML = "Se ingresó una edad no válida.";
+				var vSpan=document.getElementById("aceptado");
+				vSpan.style.color ="red";
+                alert("Edad no válida")
+            }
+		}
+	
+		funcionFormulario();
+	
+	</script>
+	
+	<br/>
+	<a href="index.html">Volver</a>
+</body>

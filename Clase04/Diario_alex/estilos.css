@@ -1,0 +1,182 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial;
+    padding: 0;
+    background-image: repeating-linear-gradient(90deg,
+      transparent 0 20px,
+      rgb(88, 84, 84));
+    margin: 0;
+  }
+  
+  .header {
+    padding: 20px;
+    text-align: center;
+    background: white;
+    background-position: center center;
+    background-image: url(https://media.tycsports.com/files/2020/07/27/108874/san-martin_862x485.jpg?v=2);
+    opacity: 0.7;
+  }
+  
+  .header h1 {
+    font-size: 50px;
+    text-shadow: 5px -4px 2px #1F0CB6;
+  }
+  .header p{
+    font-size: 30px;
+    text-shadow: 3px -2px 2px red;
+  }
+  
+  .nav_header {
+    overflow: hidden;
+    background-color: brown;
+    position: sticky;
+    position: -webkit-sticky;
+    top:0;
+    left:0;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    background: linear-gradient(rgb(38, 240, 38), red, #24404d);
+  }
+  
+  .nav_header a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+  }
+  
+  .nav_header a:hover {
+    background-color: #ddd;
+    color: black;
+    padding-top: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  .menu_principal li
+  {
+    margin:2px;
+    float:left;
+    
+  }
+  .menu_principal
+  {
+    list-style:none;
+    
+  }
+  
+  .noticias_izq {   
+    float: left;
+    width: 75%;
+  }
+
+  div.noticias_izq > div {
+    background-image: repeating-linear-gradient(90deg,
+      transparent,
+      transparent 10px,
+      rgb(243, 220, 220) ,
+      rgb(231, 27, 27) );
+    padding: 10px;
+    margin-top: 10px;
+    width: 50%;
+    float: left;
+    overflow: auto;
+  }
+  div.noticias_izq div{
+    margin-top: 0;
+    border-radius: 10%;
+  }
+  
+  .aside_der {
+    float: left;
+    width: 25%;
+    background: linear-gradient(#24404d, red, #24404d);
+    padding-left: 20px;
+    
+  }
+  .aside_der h2, h1, h3, li{
+    color: #f2f2f2;
+  }
+  .aside_der img{
+    border-radius: 10%;
+  }
+  .imagen {
+    background-color: #aaa;
+    width: 100%;
+    padding: 0px;
+  }
+  
+  .contenedor:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .footer {
+    padding: 10px;
+    text-align: center;
+    background-image: repeating-linear-gradient(90deg,
+      transparent,
+      transparent 10px,
+      rgb(243, 220, 220) 20px,
+      rgb(231, 27, 27) 40px);
+    margin-top: 0;
+    font-size:small;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+  .footer div{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .footer img{
+    width: 30px;
+    height: 30px;
+  }
+  .footer p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+  }
+  .menu_footer
+  {
+    list-style:none;
+  }
+  .menu_footer li
+  {
+    margin:5px;
+    float:left;
+  }
+  
+  @media screen and (max-width: 800px) {
+    .noticias_izq, .aside_der {   
+      width: 100%;
+      padding: 0;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    .nav_header a {
+      float: none;
+      width: 100%;
+    }
+  }
+
+  /*Calendario*/
+  ol {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    list-style: none;
+    border: 2px solid whitesmoke;
+    padding: 3px;
+  }
+  .first-day {
+    grid-column-start: 6
+  }
