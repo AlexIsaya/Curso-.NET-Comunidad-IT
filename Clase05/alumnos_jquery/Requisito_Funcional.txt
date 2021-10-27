@@ -1,0 +1,3 @@
+Se requier cargar una lista desplebable de alumnos y cargarlos programaticamente.
+
+Los alumnos son todos los del curso Salta 2021.

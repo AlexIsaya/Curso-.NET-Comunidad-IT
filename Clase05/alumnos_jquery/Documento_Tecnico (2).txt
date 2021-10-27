@@ -1,0 +1,14 @@
+1.Crear un html
+
+2. Inluir libreria Jquery
+
+3. Dibujar el Html para el <select> y agregar ID o Clase
+
+4. Un archivo aparte Js con funcion para cargar el combo.
+
+5. Usar en la carga del select la instruccion for each.
+
+Es un bucle que recorre todos los elementos de un arreglo.
+(Iteracion)
+Dentro de cada iteracion agregar un item del Select con nombre y DNI como clave.
+
