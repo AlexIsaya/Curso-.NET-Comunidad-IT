@@ -1,0 +1,23 @@
+.titulo{
+    border-radius: 20px;
+    background-color: rgba(0, 0, 200, 0.3);
+    color: yellow important;
+}
+.boton{
+    border-radius: 20px;
+    box-shadow: 10px 20px 50px red;
+}
+.foto{
+   /* transform: rotate(90deg); */
+    opacity: .8;
+}
+
+@media (max-width: 600px) and (orientation: landscape) {
+    h1{ color: red; }
+ }
+ @media (min-width: 1000px) and (max-width: 1480px){
+    h1{ margin: 10%; }
+ }
+ @media (min-width: 600px) and (orientation: portrait) {
+    h1{ color: green; }
+ }
