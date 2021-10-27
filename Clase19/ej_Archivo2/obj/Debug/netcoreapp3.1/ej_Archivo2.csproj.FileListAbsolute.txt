@@ -1,0 +1,13 @@
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase19\ej_Archivo2\obj\Debug\netcoreapp3.1\ej_Archivo2.csprojAssemblyReference.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase19\ej_Archivo2\obj\Debug\netcoreapp3.1\ej_Archivo2.AssemblyInfoInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase19\ej_Archivo2\obj\Debug\netcoreapp3.1\ej_Archivo2.AssemblyInfo.cs
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase19\ej_Archivo2\obj\Debug\netcoreapp3.1\ej_Archivo2.csproj.CoreCompileInputs.cache
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase19\ej_Archivo2\bin\Debug\netcoreapp3.1\ej_Archivo2.exe
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase19\ej_Archivo2\bin\Debug\netcoreapp3.1\ej_Archivo2.deps.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase19\ej_Archivo2\bin\Debug\netcoreapp3.1\ej_Archivo2.runtimeconfig.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase19\ej_Archivo2\bin\Debug\netcoreapp3.1\ej_Archivo2.runtimeconfig.dev.json
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase19\ej_Archivo2\bin\Debug\netcoreapp3.1\ej_Archivo2.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase19\ej_Archivo2\bin\Debug\netcoreapp3.1\ej_Archivo2.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase19\ej_Archivo2\obj\Debug\netcoreapp3.1\ej_Archivo2.dll
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase19\ej_Archivo2\obj\Debug\netcoreapp3.1\ej_Archivo2.pdb
+C:\Users\ISAYA\Documents\Alex\Curso_COMIT\Clase19\ej_Archivo2\obj\Debug\netcoreapp3.1\ej_Archivo2.genruntimeconfig.cache
