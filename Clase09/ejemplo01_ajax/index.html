@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="demo">
+        <h2>Let AJAX change this text</h2>
+        <button type="button" onclick="cargarNoticiasAjax()">Cargame una noticia</button>
+        <nav id="divNoticia">---</nav>
+    </div>
+    <script>
+      function cargarNoticiasAjax(){
+      
+        var xhttp = new HMLHttpRequest();
+            //Evento onreadystatechange es cuando contesta la solicitud
+                  xhttp.onreadystatechange = function()
+                  {
+                      alert('entro en evento redyState: '+this.readyState+', status: '+this.status);
+                      alert();
+                      if (this.readyState == 4 && this.estatus == 200)
+                      {
+                          document.getElementById("navNoticia").innerHTML = this.responseText;
+                      } else {
+                          alert('error al cargar el AJAX')
+                      }
+                  };
+                  //Llamar al archivo noticia 1 y tom
+            //Llamar al archivo noticia 1 y tomar el contenido
+                  xhttp.open("GET", "/Clase09/ejemplo01_ajax/noticia1.txt", true) ;
+                  xhttp.send();
+              }
+    </script>
+</body>
+</html>

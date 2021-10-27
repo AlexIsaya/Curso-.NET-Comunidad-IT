@@ -1,0 +1,8 @@
+APUNTES COMUNICACIONES
+
+Yo anoté esto: 
+Sí es un sistema de comunicación (SC). Los elementos son:
+Fuente: Laptop
+Sumidero: PC
+Canal de comunicación: cable/par trenzado
+Dispositivo (?: Repetidor multipuerto o Hub
